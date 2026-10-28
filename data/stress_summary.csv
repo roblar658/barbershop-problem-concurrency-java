@@ -1,0 +1,14 @@
+metric,value
+total_customers,1000
+served_customers,17
+turned_away_or_other,983
+overtaken_customers,0
+starved_customers,0
+is_starvation_free,true
+mean_wait_ms,11.18
+p95_wait_ms,18.00
+p99_wait_ms,18.00
+max_observed_wait_ms,18
+theoretical_max_wait_ms,230
+total_elapsed_ms,54
+throughput_served_per_sec,314.81
